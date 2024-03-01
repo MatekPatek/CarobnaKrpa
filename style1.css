@@ -60,7 +60,7 @@ body {font-family: Arial, Helvetica, sans-serif;
   flex-wrap: wrap;
   justify-content: space-evenly;
   overflow: visible;
-  margin: 0px;
+  margin: 30px;
   left: 500px;
   bottom: 600px;
 }
